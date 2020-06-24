@@ -1,5 +1,14 @@
 # typechain
 
+## typescript 설치
+
+아래 명령어 실행해서 global 로 설치
+
+`yarn global add typescript ` 
+
+설치하면 tsc 명령어를 사용할 수 있게 됨.
+
+
 ## typescript compile
 
 tsc 명령 사용. tsc 를 실행하면 index.ts 를 index.js 로 컴파일함
